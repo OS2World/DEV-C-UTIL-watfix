@@ -1,0 +1,3 @@
+Watcom C/C++ v11.0x 32 bit executable fixer.
+Correct's problem with 32bit OS/2 apps which
+uses 16bit dlls.
